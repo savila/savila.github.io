@@ -58,19 +58,19 @@ Current challenges in cosmology require the coherent effort of the entire commun
 This is the list of collaborations in which I have been actively involved:
 
 - [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/)
-Since 2021, I have been one of the two conveners of the Large Scale Structure (LSS) Science Working Group (SWG), in charge of Galaxy Clustering (GC), during the anaysis of the final dataset (Year-6 or Y6). As such, I was in charge of the [BAO Key Project](https://arxiv.org/abs/2402.10696) (KP) and the [cosmological analysis](https://arxiv.org/abs/2503.06712) of BAO in combination with Supernovae. Our group was algso in charge of providing the GC products for the [3x2pt (combined GC & WL) KP analysis](https://arxiv.org/abs/2601.14559) and of other science projects related to GC such us the study of Primordial Non-Gaussianitties.
+Since 2021, I have been one of the two conveners of the Large Scale Structure (LSS) Science Working Group (SWG), in charge of Galaxy Clustering (GC), during the anaysis of the final dataset (Year-6 or Y6). As such, I was in charge of the [BAO Key Project](https://arxiv.org/abs/2402.10696) (KP) and the [cosmological analysis](https://arxiv.org/abs/2503.06712) of BAO in combination with Supernovae. Our group was algso in charge of providing the GC products for the [3x2pt (combined GC & WL) KP analysis](https://arxiv.org/abs/2601.14559) and of other science projects related to GC such us the study of Primordial Non-Gaussianitties. Additionally, I was involved in the DES LSS anaysis since Y1, when I led the BAO mock catalogues. 
 
 - [extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV](https://www.sdss4.org/surveys/eboss/)
-I performed the Halo Occupation Distribution analysis for Emission Line Galaxies and I was involved in the ELG and general cosmology analsysis. I was also involved in the eBOSSxGBT analysis.  
+I performed the Halo Occupation Distribution analysis for Emission Line Galaxies ([link](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5486A/abstract)) and I was involved in the ELG and general cosmology analsysis. 
 
 - [Euclid](https://sci.esa.int/web/euclid).
-I am currently one of the leads of the "Simulations for Galaxy Clustering" Work Package. Involved in the Simulations and Galaxy clustering SWG.
+I am currently one of the leads of the "Simulated data challenges" Work Package. Involved in the Simulations and Galaxy clustering SWG.
 
 - [Square Kilometer Array (SKA)](https://www.skatelescope.org/)
 I studied the viability and methodology of measuring BAO with SKA HI intensity mapping program in presence of observational (foreground and telescop beam) effects. 
 
 - [Dark Energy Spectroscopic Instrument (DESI)](https://www.desi.lbl.gov/). 
-I generate mock catalogue with PNG. I am also involved in the ELG HOD.
+I've been leeading the generation of state-of-the-art PNG imulations for DESI. I am also involved in the Lyman alpha DR2/DR3 analysis. 
 
 - [UNIT simulations (UNITsims)](http://www.unitsims.org/)
 I participated in the UNITsim-Galaxies project. 
