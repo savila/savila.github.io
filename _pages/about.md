@@ -38,11 +38,12 @@ Main interests/expertise:
 - Fast cosmological simulations
 - Primordial Non-Gaussianities (PNG)
 - The galaxy - dark matter connection and Halo Occupation Distribution model (HOD)
-- HI Instensity Mapping
+
 
 Other Interests:
 ------ 
 
+- HI Instensity Mapping
 - Redshift Space Distortions (RSD)
 - Semi-Analytical Models of Galaxy formation
 - Hydrodynamical simulations 
@@ -57,7 +58,7 @@ Current challenges in cosmology require the coherent effort of the entire commun
 This is the list of collaborations in which I have been actively involved:
 
 - [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/)
-I am currently one of the two conveners of the Large Scale Structure (LSS) Science Working Group (SWG), in charge of Galaxy Clustering (GC), while we analyse the final dataset (Year-6 or Y6). The LSS-SWG is in charge of the whole BAO Key Project (KP), of providing the GC products for the 3x2pt (combined GC & WL) KP analysis and of other science projects related to GC such us the study of Primordial Non-Gaussianitties.
+Since 2021, I have been one of the two conveners of the Large Scale Structure (LSS) Science Working Group (SWG), in charge of Galaxy Clustering (GC), during the anaysis of the final dataset (Year-6 or Y6). The LSS-SWG is in charge of the whole BAO Key Project (KP), of providing the GC products for the 3x2pt (combined GC & WL) KP analysis and of other science projects related to GC such us the study of Primordial Non-Gaussianitties.
 
 - [extended Baryonic Oscillation Spectroscopic Survey (eBOSS) / SDSS-IV](https://www.sdss4.org/surveys/eboss/)
 I performed the Halo Occupation Distribution analysis for Emission Line Galaxies and I was involved in the ELG and general cosmology analsysis. I was also involved in the eBOSSxGBT analysis.  
