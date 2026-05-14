@@ -73,9 +73,10 @@ cosmological analysis.</i> MFHRB, **SA** et al. in DESI internal review.
 * Guillermo Reyes-Peraza. IFT (UAM-CSIC), 2019-2024
 * Walter Riquelme. IFT (laCaixa), 2019-2023.  
 * Mike Shegbo Wang. University of Portsmouth. 2017-2021.
-  Theoretical Challenges in LSS. Topics related to PNG: 
-  * 
-  * Cartesian field level inference for PNG. 
+  <i> [Theoretical considerations in large-scale structure analyses](https://researchportal.port.ac.uk/en/studentTheses/theoretical-considerations-in-large-scale-structure-analyses/) </i>. Focused on Primordial Non-Gaussianitites.  
+  * [Cosmological inference from galaxy-clustering power spectrum: Gaussianization and covariance decomposition](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486..951W/abstract). MSW, Percival, *Avila* et al. 2019 MNRAS
+  * [Hybrid-basis inference for large-scale galaxy clustering: combining spherical and Cartesian Fourier analyses](https://arxiv.org/abs/2007.14962). MSW, *Avila* et al. 2020, JCAP 10 022
+  * [Impact of relativistic effects on the primordial non-Gaussianity signature in the large-scale clustering of quasars](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.2598W/abstract). MSW, Beutler and Bacon 2020 MNRAS 499 2598
 
   
 Funding
