@@ -53,11 +53,11 @@ Université Paris Diderot (1st)
 
 * **2006-2011 <i> Licenciatura en Física</i>** <br>
 Universidad Complutense de Madrid (9/10)
-%  * BSc project supervised by Antonio Lopez Maroto
+<!--  * BSc project supervised by Antonio Lopez Maroto -->
 
 * **2009-2010 Erasmus** Exchange programme <br>
 University of Nottingham (87/100)
-%  * BSc project supervised by Ed Copeland
+<!--   * BSc project supervised by Ed Copeland -->
 
 PhD Supervision
 -----
