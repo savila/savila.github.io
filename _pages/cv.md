@@ -65,8 +65,8 @@ Publication summary
 * 47 papers excluding those signed as builder (h=28). 
 * I led 11 papers:
   * 8 as first-author
-     * Including 1 [Nature Astronomy perspective+](https://www.nature.com/articles/s41550-025-02618-3)
-  * 2 collaboration alphabetical papers ([DES Y6 BAO](https://arxiv.org/abs/2402.10696); (DES BAO & SN cosmology)[https://arxiv.org/abs/2503.06712]) as lead and corresponding author
+     * Including 1 [Nature Astronomy perspective](https://www.nature.com/articles/s41550-025-02618-3)
+  * 2 collaboration alphabetical papers as lead and corresponding author ([DES Y6 BAO](https://arxiv.org/abs/2402.10696); (DES BAO & SN cosmology)[https://arxiv.org/abs/2503.06712]) 
   * 1 letter ([bias-zero-PNG](https://www.aanda.org/articles/aa/full_html/2026/03/aa58825-25/aa58825-25.html)), where I am the sole corresponding author. 
   * 5 of them surpassing the 50 citations. 
 * >25 publications being a [top-three author](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=-docs(50228b72d401d81b63ed4b72bc010085)%20pos(author%3A%22Avila%2C%20Santiago%22%2C1%2C3)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
@@ -75,21 +75,18 @@ Publication summary
 PhD Supervision
 -----
 
-* Manuel F. Herrera-Ruiz Bernal. CIEMAT, 2025-2029.  
-  <i>Validating DESI cosmological analyses with simulations</i> 
+* Manuel F. Herrera-Ruiz Bernal. CIEMAT, 2025-2029. <i>Validating DESI cosmological analyses with simulations</i> 
   * <i>CoLoRe-2LPT: Lyman-α mock catalogues for the validation of DESI
 cosmological analysis.</i> MFHRB, **Avila** et al. in DESI internal review.
   * <i> Validation of DESI DR3 BAO Lyman-alpha forest analysis</i>. In preparation (incl. Avila, TBC)
   * <i> Improving the modelling of Lyman alpha metals and high column density contamination. </i> In preparation. 
-* Adrián Gutiérrez Adame. UAM, 2022-2025.
-  * [Cosmological N-bodysimulationswith local-Primordialnon-Gaussianities](https://repositorio.uam.es/entities/publication/d8170940-b502-4e2d-8441-5de743ce6771)
-     * [PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..69G/abstract). AGA, **Avila**, Gonzalez-Perez et al. 2024 MNRAS 689 69
-     * [Accurate N-body simulations with local primordial non-Gaussianities: Initial conditions and aliasing](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A..20A/abstract). AGA, Avila et al. 2026 A&A 705 20
+* Adrián Gutiérrez Adame. UAM, 2022-2025. <i>[Cosmological N-bodysimulationswith local-Primordialnon-Gaussianities](https://repositorio.uam.es/entities/publication/d8170940-b502-4e2d-8441-5de743ce6771)</i>
+  * [PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..69G/abstract). AGA, **Avila**, Gonzalez-Perez et al. 2024 MNRAS 689 69
+  * [Accurate N-body simulations with local primordial non-Gaussianities: Initial conditions and aliasing](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A..20A/abstract). AGA, Avila et al. 2026 A&A 705 20
 * Bernhard Vos-Ginés. UAM, 2020-2024. 
 * Guillermo Reyes-Peraza. IFT (UAM-CSIC), 2019-2024
 * Walter Riquelme. IFT (laCaixa), 2019-2023.  
-* Mike Shegbo Wang. University of Portsmouth. 2017-2021.
-  <i> [Theoretical considerations in large-scale structure analyses](https://researchportal.port.ac.uk/en/studentTheses/theoretical-considerations-in-large-scale-structure-analyses/) </i>. Focused on Primordial Non-Gaussianitites.  
+* Mike Shegbo Wang. University of Portsmouth. 2017-2021. <i> [Theoretical considerations in large-scale structure analyses](https://researchportal.port.ac.uk/en/studentTheses/theoretical-considerations-in-large-scale-structure-analyses/) </i>. Focused on Primordial Non-Gaussianitites.  
   * [Cosmological inference from galaxy-clustering power spectrum: Gaussianization and covariance decomposition](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486..951W/abstract). MSW, Percival, *Avila* et al. 2019 MNRAS
   * [Hybrid-basis inference for large-scale galaxy clustering: combining spherical and Cartesian Fourier analyses](https://arxiv.org/abs/2007.14962). MSW, *Avila* et al. 2020, JCAP 10 022
   * [Impact of relativistic effects on the primordial non-Gaussianity signature in the large-scale clustering of quasars](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.2598W/abstract). MSW, Beutler and Bacon 2020 MNRAS 499 2598
