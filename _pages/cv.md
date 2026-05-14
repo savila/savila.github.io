@@ -105,17 +105,17 @@ Publication summary
 * 47 papers excluding those signed as builder (h=28). 
 * I led 11 papers:
   * 8 as first-author
-     * Including 1 Nature Astronomy perspective
+     * Including 1 [Nature Astronomy perspective+](https://www.nature.com/articles/s41550-025-02618-3)
   * 2 collaboration alphabetical papers ([DES Y6 BAO](https://arxiv.org/abs/2402.10696); (DES BAO & SN cosmology)[https://arxiv.org/abs/2503.06712]) as lead and corresponding author
-  * 1 letter ([bias-zero-PNG](https://ui.adsabs.harvard.edu/abs/2026A%26A...707L..15M/abstract)), where I am the sole corresponding author. 
+  * 1 letter ([bias-zero-PNG](https://www.aanda.org/articles/aa/full_html/2026/03/aa58825-25/aa58825-25.html)), where I am the sole corresponding author. 
   * 5 of them surpassing the 50 citations. 
-* ~20 publications being a top-three author.
+* >25 publications being a [top-three author](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=-docs(50228b72d401d81b63ed4b72bc010085)%20pos(author%3A%22Avila%2C%20Santiago%22%2C1%2C3)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
   
 Talk summary
 -----
  
- I have participated in over 80 conferences/meetings, mostly giving talks, sometimes chairing/organising sessions and, in several occasions, under invitation or as plenary speaker. I gave seminars at UAM, ICG, JPL/NASA, and Linea-Brazil.
+ I have participated in over 80 conferences/meetings, mostly giving talks, sometimes chairing/organising sessions and, in several occasions, under invitation or as plenary speaker. I gave seminars at UAM, ICG, JPL/NASA, and Linea-Brazil, University of Cape Town, UWC, IFAE.
  
  
  I was the main organiser of the workshop "[A cosmic window to fundamental physics: Primordial Non-Gaussianities and beyond](https://workshops.ift.uam-csic.es/PNG2022)"
