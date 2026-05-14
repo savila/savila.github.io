@@ -62,7 +62,7 @@ University of Nottingham <!-- (87/100)-->
 PhD Supervision
 -----
 
-* Manuel F. Herrera-Ruiz Bernal. CIEMAT, 2025-2029.
+* Manuel F. Herrera-Ruiz Bernal. CIEMAT, 2025-2029.  
   <i>Validating DESI cosmological analyses with simulations</i> (TBC)
   * <i>CoLoRe-2LPT: Lyman-α mock catalogues for the validation of DESI
 cosmological analysis.</i> MFHRB, **SA** et al. in DESI internal review. 
