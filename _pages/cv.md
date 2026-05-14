@@ -63,9 +63,11 @@ PhD Supervision
 -----
 
 * Manuel F. Herrera-Ruiz Bernal. CIEMAT, 2025-2029.  
-  <i>Validating DESI cosmological analyses with simulations</i> (TBC)
+  <i>Validating DESI cosmological analyses with simulations</i> 
   * <i>CoLoRe-2LPT: Lyman-α mock catalogues for the validation of DESI
-cosmological analysis.</i> MFHRB, **SA** et al. in DESI internal review. 
+cosmological analysis.</i> MFHRB, **SA** et al. in DESI internal review.
+  * <i> Validation of DESI DR3 BAO Lyman-alpha forest analysis</i>. In preparation (incl. Avila, TBC)
+  * <i> Improving the modelling of Lyman alpha metals and high column density contamination. </i> In preparation. 
 * Adrián Gutiérrez Adame. UAM, 2022-2025.
 * Bernhard Vos-Ginés. UAM, 2020-2024. 
 * Guillermo Reyes-Peraza. IFT (UAM-CSIC), 2019-2024
