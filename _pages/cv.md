@@ -52,22 +52,28 @@ Université Paris Diderot (1st)
   * MSc final project on [<i> Cosmic Inflation</i>](https://ui.adsabs.harvard.edu/abs/2014JCAP...08..032A/abstract), supervised by Danièle Steer (APC). 
 
 * **2006-2011 <i> Licenciatura en Física</i>** <br>
-Universidad Complutense de Madrid (9/10)
+Universidad Complutense de Madrid <!-- (9/10)-->
 <!--  * BSc project supervised by Antonio Lopez Maroto -->
 
 * **2009-2010 Erasmus** Exchange programme <br>
-University of Nottingham (87/100)
+University of Nottingham <!-- (87/100)-->
 <!--   * BSc project supervised by Ed Copeland -->
 
 PhD Supervision
 -----
 
-Manuel Herrera
-Adrián Gutiérrez Adame
-Bernhard Vos-Ginés
-Guillermo Reyes-Peraza
-Walter Riquelme
-Mike Shegbo Wang
+* Manuel F. Herrera-Ruiz Bernal. CIEMAT, 2025-2029.
+  <i>Validating DESI cosmological analyses with simulations</i> (TBC)
+  * <i>CoLoRe-2LPT: Lyman-α mock catalogues for the validation of DESI
+cosmological analysis.</i> MFHRB, **SA** et al. in DESI internal review. 
+* Adrián Gutiérrez Adame. UAM, 2022-2025.
+* Bernhard Vos-Ginés. UAM, 2020-2024. 
+* Guillermo Reyes-Peraza. IFT (UAM-CSIC), 2019-2024
+* Walter Riquelme. IFT (laCaixa), 2019-2023.  
+* Mike Shegbo Wang. University of Portsmouth. 2017-2021.
+  Theoretical Challenges in LSS. Topics related to PNG: 
+  * 
+  * Cartesian field level inference for PNG. 
 
   
 Funding
