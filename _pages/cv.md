@@ -91,7 +91,8 @@ Refereeing and Panelist
 * PhD Panels
   * Ruben Arjona: UAM Sep-2021
   * Martín Rodríguez Monroy: UCM Nov-2021
-  * Juan Mena-Fernández: UCM Oct-  2023
+  * Juan Mena-Fernández: UCM Oct-2023
+  * David Sanchez Cid: UCM Oct-2024
   * Emanuele Fondi: UB Sep-2025
   * Dane Cross: UAB Jun-2026
   * William d'Assignies: UAB Jun-2026
@@ -100,11 +101,14 @@ Refereeing and Panelist
 
 Publication summary
 -----
-* My research has led to 200 peer-reviewed articles with 20,000+ citations and h-index of 79 (ADS/NASA)
+* My research has led to >200 peer-reviewed articles with >20,000 citations and h-index of 79 (ADS/NASA)
 * 47 papers excluding those signed as builder (h=28). 
-* I have 8 first-author papers + I lead 2 alphabetical papers ([DES Y6 BAO](https://arxiv.org/abs/2402.10696); (DES BAO & SN cosmology)[https://arxiv.org/abs/2503.06712]):
-  * 1 Nature Astronomy perspective
-  * 5 surpassing the 50 citations. 
+* I led 11 papers:
+  * 8 as first-author
+     * Including 1 Nature Astronomy perspective
+  * 2 collaboration alphabetical papers ([DES Y6 BAO](https://arxiv.org/abs/2402.10696); (DES BAO & SN cosmology)[https://arxiv.org/abs/2503.06712]) as lead and corresponding author
+  * 1 letter ([bias-zero-PNG](https://ui.adsabs.harvard.edu/abs/2026A%26A...707L..15M/abstract)), where I am the sole corresponding author. 
+  * 5 of them surpassing the 50 citations. 
 * ~20 publications being a top-three author.
 
   
