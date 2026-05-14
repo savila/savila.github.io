@@ -59,16 +59,32 @@ Universidad Complutense de Madrid <!-- (9/10)-->
 University of Nottingham <!-- (87/100)-->
 <!--   * BSc project supervised by Ed Copeland -->
 
+Publication summary
+-----
+* My research has led to >200 peer-reviewed articles with >20,000 citations and h-index of 79 (ADS/NASA)
+* 47 papers excluding those signed as builder (h=28). 
+* I led 11 papers:
+  * 8 as first-author
+     * Including 1 [Nature Astronomy perspective+](https://www.nature.com/articles/s41550-025-02618-3)
+  * 2 collaboration alphabetical papers ([DES Y6 BAO](https://arxiv.org/abs/2402.10696); (DES BAO & SN cosmology)[https://arxiv.org/abs/2503.06712]) as lead and corresponding author
+  * 1 letter ([bias-zero-PNG](https://www.aanda.org/articles/aa/full_html/2026/03/aa58825-25/aa58825-25.html)), where I am the sole corresponding author. 
+  * 5 of them surpassing the 50 citations. 
+* >25 publications being a [top-three author](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=-docs(50228b72d401d81b63ed4b72bc010085)%20pos(author%3A%22Avila%2C%20Santiago%22%2C1%2C3)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+
+
 PhD Supervision
 -----
 
 * Manuel F. Herrera-Ruiz Bernal. CIEMAT, 2025-2029.  
   <i>Validating DESI cosmological analyses with simulations</i> 
   * <i>CoLoRe-2LPT: Lyman-α mock catalogues for the validation of DESI
-cosmological analysis.</i> MFHRB, **SA** et al. in DESI internal review.
+cosmological analysis.</i> MFHRB, **Avila** et al. in DESI internal review.
   * <i> Validation of DESI DR3 BAO Lyman-alpha forest analysis</i>. In preparation (incl. Avila, TBC)
   * <i> Improving the modelling of Lyman alpha metals and high column density contamination. </i> In preparation. 
 * Adrián Gutiérrez Adame. UAM, 2022-2025.
+  * [Cosmological N-bodysimulationswith local-Primordialnon-Gaussianities](https://repositorio.uam.es/entities/publication/d8170940-b502-4e2d-8441-5de743ce6771)
+     * [PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..69G/abstract). AGA, **Avila**, Gonzalez-Perez et al. 2024 MNRAS 689 69
+     * [Accurate N-body simulations with local primordial non-Gaussianities: Initial conditions and aliasing](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A..20A/abstract). AGA, Avila et al. 2026 A&A 705 20
 * Bernhard Vos-Ginés. UAM, 2020-2024. 
 * Guillermo Reyes-Peraza. IFT (UAM-CSIC), 2019-2024
 * Walter Riquelme. IFT (laCaixa), 2019-2023.  
@@ -81,6 +97,8 @@ cosmological analysis.</i> MFHRB, **SA** et al. in DESI internal review.
   
 Funding
 -----
+* Plan Nacional
+* Ramón y Cajal Fellwoship
 * Intertalentum Fellowshop: Marie Skłodowska-Curie Actions (MSCA) - COFUND. Labout costs: 115k€. Research budget: 32k€.  
 * Juan de la Cierva Formación - 2017. Granted not taken due to incompatiblities. 
 * FPI-UAM PhD Felloship: 72k€. 
@@ -107,18 +125,6 @@ Refereeing and Panelist
   * William d'Assignies: UAB Jun-2026
 
 * Euclid STAR prize panel: 2022 & 2023. 
-
-Publication summary
------
-* My research has led to >200 peer-reviewed articles with >20,000 citations and h-index of 79 (ADS/NASA)
-* 47 papers excluding those signed as builder (h=28). 
-* I led 11 papers:
-  * 8 as first-author
-     * Including 1 [Nature Astronomy perspective+](https://www.nature.com/articles/s41550-025-02618-3)
-  * 2 collaboration alphabetical papers ([DES Y6 BAO](https://arxiv.org/abs/2402.10696); (DES BAO & SN cosmology)[https://arxiv.org/abs/2503.06712]) as lead and corresponding author
-  * 1 letter ([bias-zero-PNG](https://www.aanda.org/articles/aa/full_html/2026/03/aa58825-25/aa58825-25.html)), where I am the sole corresponding author. 
-  * 5 of them surpassing the 50 citations. 
-* >25 publications being a [top-three author](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=-docs(50228b72d401d81b63ed4b72bc010085)%20pos(author%3A%22Avila%2C%20Santiago%22%2C1%2C3)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
   
 Talk summary
