@@ -69,7 +69,7 @@ Publication summary
   * 2 collaboration alphabetical papers as lead and corresponding author ([DES Y6 BAO](https://arxiv.org/abs/2402.10696); (DES BAO & SN cosmology)[https://arxiv.org/abs/2503.06712]) 
   * 1 letter ([bias-zero-PNG](https://www.aanda.org/articles/aa/full_html/2026/03/aa58825-25/aa58825-25.html)), where I am the sole corresponding author. 
   * 5 of them surpassing the 50 citations. 
-* >25 publications being a [top-three author](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=-docs(50228b72d401d81b63ed4b72bc010085)%20pos(author%3A%22Avila%2C%20Santiago%22%2C1%2C3)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
+* \>25 publications being a [top-three author](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=-docs(50228b72d401d81b63ed4b72bc010085)%20pos(author%3A%22Avila%2C%20Santiago%22%2C1%2C3)&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 
 PhD Supervision
@@ -77,14 +77,20 @@ PhD Supervision
 
 * Manuel F. Herrera-Ruiz Bernal. CIEMAT, 2025-2029. <i>Validating DESI cosmological analyses with simulations</i> 
   * <i>CoLoRe-2LPT: Lyman-α mock catalogues for the validation of DESI
-cosmological analysis.</i> MFHRB, **Avila** et al. in DESI internal review.
-  * <i> Validation of DESI DR3 BAO Lyman-alpha forest analysis</i>. In preparation (incl. Avila, TBC)
+cosmological analysis.</i> MFHRB, *Avila* et al. in DESI internal review.
+  * <i> Validation of DESI DR3 BAO Lyman-alpha forest analysis</i>. In preparation (incl. *Avila*)
   * <i> Improving the modelling of Lyman alpha metals and high column density contamination. </i> In preparation. 
 * Adrián Gutiérrez Adame. UAM, 2022-2025. <i>[Cosmological N-bodysimulationswith local-Primordialnon-Gaussianities](https://repositorio.uam.es/entities/publication/d8170940-b502-4e2d-8441-5de743ce6771)</i>
-  * [PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..69G/abstract). AGA, **Avila**, Gonzalez-Perez et al. 2024 MNRAS 689 69
-  * [Accurate N-body simulations with local primordial non-Gaussianities: Initial conditions and aliasing](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A..20A/abstract). AGA, Avila et al. 2026 A&A 705 20
+  * <i>The PNGUNIT-XL simulations: validating the DESI PNG pipeline with DR2-like catalogues</i>. AGA, Meneses, Rizo,  Rivera, *Avila* et al. in DESI internal review
+  * [PNG-UNITsims: Halo clustering response to primordial non-Gaussianities as a function of mass](https://ui.adsabs.harvard.edu/abs/2024A%26A...689A..69G/abstract). AGA, *Avila*, Gonzalez-Perez et al. 2024 MNRAS 689 69
+  * [Accurate N-body simulations with local primordial non-Gaussianities: Initial conditions and aliasing](https://ui.adsabs.harvard.edu/abs/2026A%26A...705A..20A/abstract). AGA, *Avila* et al. 2026 A&A 705 20
+  * [Validating galaxy clustering models with Fixed & Paired and Matched-ICs simulations: application to Primordial Non-Gaussianities](https://arxiv.org/abs/2204.11103) *Avila* & AGA 2023 MNRAS 519 3706 
 * Bernhard Vos-Ginés. UAM, 2020-2024. 
-* Guillermo Reyes-Peraza. IFT (UAM-CSIC), 2019-2024
+<i>[Gas and Galaxies: Tracers for Stage IV cosmological surveys](https://repositorio.uam.es/entities/publication/d1471381-ac7c-4c2b-9ba5-f10e26a830b1)</i>
+  * [Improving and extending non-Poissonian distributions for satellite galaxies sampling in HOD: applications to eBOSS ELGs](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3458V/abstract) BVG, *Avila*, Gonzalez-Perez & Yepes 2024 MNRAS 530 3458
+  * [H I IM correlation function from UNIT simulations: BAO and observationally induced anisotropy](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..292A/abstract) *Avila*, BVG et al. 2022 MNRAS 510 292
+* Guillermo Reyes-Peraza. IFT (UAM-CSIC), 2019-2024. [Exploring Halo Occupation Dsitribution models to characterize H-alpha Euclid galaxies](https://portalcientifico.uam.es/es/ipublic/item/10356671).
+  * [An improved halo occupation distribution prescription from UNITsim Hα emission-line galaxies: conformity and modified radial profile](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.3877R/abstract). GRP, Avila et al. 2024 MNRAS 529 3877.
 * Walter Riquelme. IFT (laCaixa), 2019-2023.  
 * Mike Shegbo Wang. University of Portsmouth. 2017-2021. <i> [Theoretical considerations in large-scale structure analyses](https://researchportal.port.ac.uk/en/studentTheses/theoretical-considerations-in-large-scale-structure-analyses/) </i>. Focused on Primordial Non-Gaussianitites.  
   * [Cosmological inference from galaxy-clustering power spectrum: Gaussianization and covariance decomposition](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486..951W/abstract). MSW, Percival, *Avila* et al. 2019 MNRAS
